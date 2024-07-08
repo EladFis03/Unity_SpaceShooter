@@ -1,0 +1,136 @@
+fileFormatVersion: 2
+guid: fb7502988fd3b3748ba7663dc13f38f2
+timeCreated: 1474586366
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: M9
+    100004: M9ConnectorLeft
+    100006: M9ConnectorRight
+    100008: M9ModuleLeft
+    100010: M9ModuleRight
+    100012: TurretMedium
+    100014: TurretMedium|Cube.035|Dupli|3
+    100016: TurretMedium|Cube.036|Dupli|1
+    100018: TurretMedium|Cube.037|Dupli|0
+    100020: TurretMedium|Plane.001|Dupli|2
+    100022: TurretMedium|TurretMedium_Base|Dupli|0
+    100024: TurretMedium|TurretMedium_XRotator|Dupli|2
+    100026: TurretMedium|TurretMedium_YRotator|Dupli|1
+    100028: LargeTurret_M9TurretTop
+    400000: //RootNode
+    400002: M9
+    400004: M9ConnectorLeft
+    400006: M9ConnectorRight
+    400008: M9ModuleLeft
+    400010: M9ModuleRight
+    400012: TurretMedium
+    400014: TurretMedium|Cube.035|Dupli|3
+    400016: TurretMedium|Cube.036|Dupli|1
+    400018: TurretMedium|Cube.037|Dupli|0
+    400020: TurretMedium|Plane.001|Dupli|2
+    400022: TurretMedium|TurretMedium_Base|Dupli|0
+    400024: TurretMedium|TurretMedium_XRotator|Dupli|2
+    400026: TurretMedium|TurretMedium_YRotator|Dupli|1
+    400028: LargeTurret_M9TurretTop
+    2300000: M9
+    2300002: M9ConnectorLeft
+    2300004: M9ConnectorRight
+    2300006: M9ModuleLeft
+    2300008: M9ModuleRight
+    2300010: TurretMedium|Cube.035|Dupli|3
+    2300012: TurretMedium|Cube.036|Dupli|1
+    2300014: TurretMedium|Cube.037|Dupli|0
+    2300016: TurretMedium|Plane.001|Dupli|2
+    2300018: TurretMedium|TurretMedium_Base|Dupli|0
+    2300020: TurretMedium|TurretMedium_XRotator|Dupli|2
+    2300022: TurretMedium|TurretMedium_YRotator|Dupli|1
+    3300000: M9
+    3300002: M9ConnectorLeft
+    3300004: M9ConnectorRight
+    3300006: M9ModuleLeft
+    3300008: M9ModuleRight
+    3300010: TurretMedium|Cube.035|Dupli|3
+    3300012: TurretMedium|Cube.036|Dupli|1
+    3300014: TurretMedium|Cube.037|Dupli|0
+    3300016: TurretMedium|Plane.001|Dupli|2
+    3300018: TurretMedium|TurretMedium_Base|Dupli|0
+    3300020: TurretMedium|TurretMedium_XRotator|Dupli|2
+    3300022: TurretMedium|TurretMedium_YRotator|Dupli|1
+    4300000: M9ModuleLeft
+    4300002: M9ConnectorLeft
+    4300004: M9
+    4300006: M9ConnectorRight
+    4300008: M9ModuleRight
+    4300010: TurretMedium|Cube.037|Dupli|0
+    4300012: TurretMedium|Plane.001|Dupli|2
+    4300014: TurretMedium|Cube.035|Dupli|3
+    4300016: TurretMedium|TurretMedium_Base|Dupli|0
+    4300018: TurretMedium|TurretMedium_YRotator|Dupli|1
+    4300020: TurretMedium|TurretMedium_XRotator|Dupli|2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

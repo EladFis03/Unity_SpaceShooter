@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: f1af409f36a37df45a0fa67f2935e793
+timeCreated: 1474591317
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: F8
+    100004: F8Front
+    100006: F8TurretTop
+    100008: F8TurretTop|Cube.152|Dupli|1
+    100010: F8TurretTop|Cube.153|Dupli|0
+    100012: F8TurretTop|Plane.005|Dupli|3
+    100014: F8TurretTop|Plane.006|Dupli|2
+    100016: F8TurretBottom
+    100018: F8TurretBottom|Cube.152|Dupli|1
+    100020: F8TurretBottom|Cube.153|Dupli|0
+    100022: F8TurretBottom|Plane.005|Dupli|3
+    100024: F8TurretBottom|Plane.006|Dupli|2
+    100026: F8TurretBottom|TurretSmall_Base|Dupli|0
+    100028: F8TurretBottom|TurretSmall_XRotator|Dupli|2
+    100030: F8TurretBottom|TurretSmall_YRotator|Dupli|1
+    100032: F8TurretTop|TurretSmall_Base|Dupli|0
+    100034: F8TurretTop|TurretSmall_XRotator|Dupli|2
+    100036: F8TurretTop|TurretSmall_YRotator|Dupli|1
+    100038: MediumTurret_F8TurretBottom
+    100040: MediumTurret_F8TurretTop
+    400000: //RootNode
+    400002: F8
+    400004: F8Front
+    400006: F8TurretTop
+    400008: F8TurretTop|Cube.152|Dupli|1
+    400010: F8TurretTop|Cube.153|Dupli|0
+    400012: F8TurretTop|Plane.005|Dupli|3
+    400014: F8TurretTop|Plane.006|Dupli|2
+    400016: F8TurretBottom
+    400018: F8TurretBottom|Cube.152|Dupli|1
+    400020: F8TurretBottom|Cube.153|Dupli|0
+    400022: F8TurretBottom|Plane.005|Dupli|3
+    400024: F8TurretBottom|Plane.006|Dupli|2
+    400026: F8TurretBottom|TurretSmall_Base|Dupli|0
+    400028: F8TurretBottom|TurretSmall_XRotator|Dupli|2
+    400030: F8TurretBottom|TurretSmall_YRotator|Dupli|1
+    400032: F8TurretTop|TurretSmall_Base|Dupli|0
+    400034: F8TurretTop|TurretSmall_XRotator|Dupli|2
+    400036: F8TurretTop|TurretSmall_YRotator|Dupli|1
+    400038: MediumTurret_F8TurretBottom
+    400040: MediumTurret_F8TurretTop
+    2300000: F8
+    2300002: F8Front
+    2300004: F8TurretTop|Cube.152|Dupli|1
+    2300006: F8TurretTop|Cube.153|Dupli|0
+    2300008: F8TurretTop|Plane.005|Dupli|3
+    2300010: F8TurretTop|Plane.006|Dupli|2
+    2300012: F8TurretBottom|Cube.152|Dupli|1
+    2300014: F8TurretBottom|Cube.153|Dupli|0
+    2300016: F8TurretBottom|Plane.005|Dupli|3
+    2300018: F8TurretBottom|Plane.006|Dupli|2
+    2300020: F8TurretBottom|TurretSmall_Base|Dupli|0
+    2300022: F8TurretBottom|TurretSmall_XRotator|Dupli|2
+    2300024: F8TurretBottom|TurretSmall_YRotator|Dupli|1
+    2300026: F8TurretTop|TurretSmall_Base|Dupli|0
+    2300028: F8TurretTop|TurretSmall_XRotator|Dupli|2
+    2300030: F8TurretTop|TurretSmall_YRotator|Dupli|1
+    3300000: F8
+    3300002: F8Front
+    3300004: F8TurretTop|Cube.152|Dupli|1
+    3300006: F8TurretTop|Cube.153|Dupli|0
+    3300008: F8TurretTop|Plane.005|Dupli|3
+    3300010: F8TurretTop|Plane.006|Dupli|2
+    3300012: F8TurretBottom|Cube.152|Dupli|1
+    3300014: F8TurretBottom|Cube.153|Dupli|0
+    3300016: F8TurretBottom|Plane.005|Dupli|3
+    3300018: F8TurretBottom|Plane.006|Dupli|2
+    3300020: F8TurretBottom|TurretSmall_Base|Dupli|0
+    3300022: F8TurretBottom|TurretSmall_XRotator|Dupli|2
+    3300024: F8TurretBottom|TurretSmall_YRotator|Dupli|1
+    3300026: F8TurretTop|TurretSmall_Base|Dupli|0
+    3300028: F8TurretTop|TurretSmall_XRotator|Dupli|2
+    3300030: F8TurretTop|TurretSmall_YRotator|Dupli|1
+    4300000: F8TurretTop|Cube.153|Dupli|0
+    4300002: F8TurretTop|Cube.152|Dupli|1
+    4300004: F8TurretTop|Plane.006|Dupli|2
+    4300006: F8TurretTop|Plane.005|Dupli|3
+    4300008: F8Front
+    4300010: F8
+    4300012: F8TurretBottom|Cube.153|Dupli|0
+    4300014: F8TurretBottom|Cube.152|Dupli|1
+    4300016: F8TurretBottom|Plane.006|Dupli|2
+    4300018: F8TurretBottom|Plane.005|Dupli|3
+    4300020: F8TurretBottom|TurretSmall_Base|Dupli|0
+    4300022: F8TurretBottom|TurretSmall_YRotator|Dupli|1
+    4300024: F8TurretBottom|TurretSmall_XRotator|Dupli|2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

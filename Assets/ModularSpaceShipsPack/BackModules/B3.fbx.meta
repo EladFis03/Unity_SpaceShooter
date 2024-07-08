@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: 225c480bfc6393241901a88e0b3f89bb
+timeCreated: 1474582354
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: B3
+    100002: //RootNode
+    100004: B3Thrusters
+    100006: B3TurretTop
+    100008: B3TurretTop|Cube.152|Dupli|1
+    100010: B3TurretTop|Cube.153|Dupli|0
+    100012: B3TurretTop|Plane.005|Dupli|3
+    100014: B3TurretTop|Plane.006|Dupli|2
+    100016: TurretMicro
+    100018: TurretMicro.001
+    100020: TurretMicro.001|Cube.039|Dupli|5
+    100022: TurretMicro.001|Cube.114|Dupli|2
+    100024: TurretMicro.001|Cube.154|Dupli|1
+    100026: TurretMicro.001|Plane.008|Dupli|4
+    100028: TurretMicro.001|Plane.009|Dupli|3
+    100030: TurretMicro.001|Plane.042|Dupli|0
+    100032: TurretMicro|Cube.039|Dupli|5
+    100034: TurretMicro|Cube.114|Dupli|2
+    100036: TurretMicro|Cube.154|Dupli|1
+    100038: TurretMicro|Plane.008|Dupli|4
+    100040: TurretMicro|Plane.009|Dupli|3
+    100042: TurretMicro|Plane.042|Dupli|0
+    100044: B3TurretTop|TurretSmall_Base|Dupli|0
+    100046: B3TurretTop|TurretSmall_XRotator|Dupli|2
+    100048: B3TurretTop|TurretSmall_YRotator|Dupli|1
+    100050: TurretMicro.001|TurretMicro_Base|Dupli|0
+    100052: TurretMicro.001|TurretMicro_XRotator|Dupli|2
+    100054: TurretMicro.001|TurretMicro_YRotator|Dupli|1
+    100056: TurretMicro|TurretMicro_Base|Dupli|0
+    100058: TurretMicro|TurretMicro_XRotator|Dupli|2
+    100060: TurretMicro|TurretMicro_YRotator|Dupli|1
+    100062: MediumTurret_B3TurretTop
+    100064: SmallTurret_B3TurretLeft
+    100066: SmallTurret_B3TurretRight
+    400000: B3
+    400002: //RootNode
+    400004: B3Thrusters
+    400006: B3TurretTop
+    400008: B3TurretTop|Cube.152|Dupli|1
+    400010: B3TurretTop|Cube.153|Dupli|0
+    400012: B3TurretTop|Plane.005|Dupli|3
+    400014: B3TurretTop|Plane.006|Dupli|2
+    400016: TurretMicro
+    400018: TurretMicro.001
+    400020: TurretMicro.001|Cube.039|Dupli|5
+    400022: TurretMicro.001|Cube.114|Dupli|2
+    400024: TurretMicro.001|Cube.154|Dupli|1
+    400026: TurretMicro.001|Plane.008|Dupli|4
+    400028: TurretMicro.001|Plane.009|Dupli|3
+    400030: TurretMicro.001|Plane.042|Dupli|0
+    400032: TurretMicro|Cube.039|Dupli|5
+    400034: TurretMicro|Cube.114|Dupli|2
+    400036: TurretMicro|Cube.154|Dupli|1
+    400038: TurretMicro|Plane.008|Dupli|4
+    400040: TurretMicro|Plane.009|Dupli|3
+    400042: TurretMicro|Plane.042|Dupli|0
+    400044: B3TurretTop|TurretSmall_Base|Dupli|0
+    400046: B3TurretTop|TurretSmall_XRotator|Dupli|2
+    400048: B3TurretTop|TurretSmall_YRotator|Dupli|1
+    400050: TurretMicro.001|TurretMicro_Base|Dupli|0
+    400052: TurretMicro.001|TurretMicro_XRotator|Dupli|2
+    400054: TurretMicro.001|TurretMicro_YRotator|Dupli|1
+    400056: TurretMicro|TurretMicro_Base|Dupli|0
+    400058: TurretMicro|TurretMicro_XRotator|Dupli|2
+    400060: TurretMicro|TurretMicro_YRotator|Dupli|1
+    400062: MediumTurret_B3TurretTop
+    400064: SmallTurret_B3TurretLeft
+    400066: SmallTurret_B3TurretRight
+    2300000: B3
+    2300002: B3Thrusters
+    2300004: B3TurretTop|Cube.152|Dupli|1
+    2300006: B3TurretTop|Cube.153|Dupli|0
+    2300008: B3TurretTop|Plane.005|Dupli|3
+    2300010: B3TurretTop|Plane.006|Dupli|2
+    2300012: TurretMicro.001|Cube.039|Dupli|5
+    2300014: TurretMicro.001|Cube.114|Dupli|2
+    2300016: TurretMicro.001|Cube.154|Dupli|1
+    2300018: TurretMicro.001|Plane.008|Dupli|4
+    2300020: TurretMicro.001|Plane.009|Dupli|3
+    2300022: TurretMicro.001|Plane.042|Dupli|0
+    2300024: TurretMicro|Cube.039|Dupli|5
+    2300026: TurretMicro|Cube.114|Dupli|2
+    2300028: TurretMicro|Cube.154|Dupli|1
+    2300030: TurretMicro|Plane.008|Dupli|4
+    2300032: TurretMicro|Plane.009|Dupli|3
+    2300034: TurretMicro|Plane.042|Dupli|0
+    2300036: B3TurretTop|TurretSmall_Base|Dupli|0
+    2300038: B3TurretTop|TurretSmall_XRotator|Dupli|2
+    2300040: B3TurretTop|TurretSmall_YRotator|Dupli|1
+    2300042: TurretMicro.001|TurretMicro_Base|Dupli|0
+    2300044: TurretMicro.001|TurretMicro_XRotator|Dupli|2
+    2300046: TurretMicro.001|TurretMicro_YRotator|Dupli|1
+    2300048: TurretMicro|TurretMicro_Base|Dupli|0
+    2300050: TurretMicro|TurretMicro_XRotator|Dupli|2
+    2300052: TurretMicro|TurretMicro_YRotator|Dupli|1
+    3300000: B3
+    3300002: B3Thrusters
+    3300004: B3TurretTop|Cube.152|Dupli|1
+    3300006: B3TurretTop|Cube.153|Dupli|0
+    3300008: B3TurretTop|Plane.005|Dupli|3
+    3300010: B3TurretTop|Plane.006|Dupli|2
+    3300012: TurretMicro.001|Cube.039|Dupli|5
+    3300014: TurretMicro.001|Cube.114|Dupli|2
+    3300016: TurretMicro.001|Cube.154|Dupli|1
+    3300018: TurretMicro.001|Plane.008|Dupli|4
+    3300020: TurretMicro.001|Plane.009|Dupli|3
+    3300022: TurretMicro.001|Plane.042|Dupli|0
+    3300024: TurretMicro|Cube.039|Dupli|5
+    3300026: TurretMicro|Cube.114|Dupli|2
+    3300028: TurretMicro|Cube.154|Dupli|1
+    3300030: TurretMicro|Plane.008|Dupli|4
+    3300032: TurretMicro|Plane.009|Dupli|3
+    3300034: TurretMicro|Plane.042|Dupli|0
+    3300036: B3TurretTop|TurretSmall_Base|Dupli|0
+    3300038: B3TurretTop|TurretSmall_XRotator|Dupli|2
+    3300040: B3TurretTop|TurretSmall_YRotator|Dupli|1
+    3300042: TurretMicro.001|TurretMicro_Base|Dupli|0
+    3300044: TurretMicro.001|TurretMicro_XRotator|Dupli|2
+    3300046: TurretMicro.001|TurretMicro_YRotator|Dupli|1
+    3300048: TurretMicro|TurretMicro_Base|Dupli|0
+    3300050: TurretMicro|TurretMicro_XRotator|Dupli|2
+    3300052: TurretMicro|TurretMicro_YRotator|Dupli|1
+    4300000: TurretMicro.001|Plane.042|Dupli|0
+    4300002: TurretMicro.001|Cube.154|Dupli|1
+    4300004: TurretMicro.001|Plane.009|Dupli|3
+    4300006: TurretMicro.001|Plane.008|Dupli|4
+    4300008: TurretMicro.001|Cube.039|Dupli|5
+    4300010: B3TurretTop|Cube.152|Dupli|1
+    4300012: B3TurretTop|Plane.006|Dupli|2
+    4300014: B3TurretTop|Plane.005|Dupli|3
+    4300016: B3Thrusters
+    4300018: B3
+    4300020: TurretMicro.001|TurretMicro_Base|Dupli|0
+    4300022: TurretMicro.001|TurretMicro_YRotator|Dupli|1
+    4300024: TurretMicro.001|TurretMicro_XRotator|Dupli|2
+    4300026: B3TurretTop|TurretSmall_Base|Dupli|0
+    4300028: B3TurretTop|TurretSmall_YRotator|Dupli|1
+    4300030: B3TurretTop|TurretSmall_XRotator|Dupli|2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

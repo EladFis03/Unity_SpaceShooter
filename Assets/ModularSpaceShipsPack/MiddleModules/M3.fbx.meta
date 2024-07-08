@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: 47267bd090c799b418d6666493284072
+timeCreated: 1474581779
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cube.018
+    100002: Cube.019
+    100004: //RootNode
+    100006: M3
+    100008: M3TurretLeft
+    100010: M3TurretLeft|Cube.039|Dupli|5
+    100012: M3TurretLeft|Cube.114|Dupli|2
+    100014: M3TurretLeft|Cube.154|Dupli|1
+    100016: M3TurretLeft|Plane.008|Dupli|4
+    100018: M3TurretLeft|Plane.009|Dupli|3
+    100020: M3TurretLeft|Plane.042|Dupli|0
+    100022: M3TurretRight
+    100024: M3TurretRight|Cube.039|Dupli|5
+    100026: M3TurretRight|Cube.114|Dupli|2
+    100028: M3TurretRight|Cube.154|Dupli|1
+    100030: M3TurretRight|Plane.008|Dupli|4
+    100032: M3TurretRight|Plane.009|Dupli|3
+    100034: M3TurretRight|Plane.042|Dupli|0
+    100036: M3TurretTop
+    100038: M3TurretTop|Cube.035|Dupli|3
+    100040: M3TurretTop|Cube.036|Dupli|1
+    100042: M3TurretTop|Cube.037|Dupli|0
+    100044: M3TurretTop|Plane.001|Dupli|2
+    100046: M3TurretLeft|TurretMicro_Base|Dupli|0
+    100048: M3TurretLeft|TurretMicro_XRotator|Dupli|2
+    100050: M3TurretLeft|TurretMicro_YRotator|Dupli|1
+    100052: M3TurretRight|TurretMicro_Base|Dupli|0
+    100054: M3TurretRight|TurretMicro_XRotator|Dupli|2
+    100056: M3TurretRight|TurretMicro_YRotator|Dupli|1
+    100058: M3TurretTop|TurretMedium_Base|Dupli|0
+    100060: M3TurretTop|TurretMedium_XRotator|Dupli|2
+    100062: M3TurretTop|TurretMedium_YRotator|Dupli|1
+    100064: LargeTurret_M3TurretTop
+    100066: SmallTurret_M3TurretLeft
+    100068: SmallTurret_M3TurretRight
+    400000: Cube.018
+    400002: Cube.019
+    400004: //RootNode
+    400006: M3
+    400008: M3TurretLeft
+    400010: M3TurretLeft|Cube.039|Dupli|5
+    400012: M3TurretLeft|Cube.114|Dupli|2
+    400014: M3TurretLeft|Cube.154|Dupli|1
+    400016: M3TurretLeft|Plane.008|Dupli|4
+    400018: M3TurretLeft|Plane.009|Dupli|3
+    400020: M3TurretLeft|Plane.042|Dupli|0
+    400022: M3TurretRight
+    400024: M3TurretRight|Cube.039|Dupli|5
+    400026: M3TurretRight|Cube.114|Dupli|2
+    400028: M3TurretRight|Cube.154|Dupli|1
+    400030: M3TurretRight|Plane.008|Dupli|4
+    400032: M3TurretRight|Plane.009|Dupli|3
+    400034: M3TurretRight|Plane.042|Dupli|0
+    400036: M3TurretTop
+    400038: M3TurretTop|Cube.035|Dupli|3
+    400040: M3TurretTop|Cube.036|Dupli|1
+    400042: M3TurretTop|Cube.037|Dupli|0
+    400044: M3TurretTop|Plane.001|Dupli|2
+    400046: M3TurretLeft|TurretMicro_Base|Dupli|0
+    400048: M3TurretLeft|TurretMicro_XRotator|Dupli|2
+    400050: M3TurretLeft|TurretMicro_YRotator|Dupli|1
+    400052: M3TurretRight|TurretMicro_Base|Dupli|0
+    400054: M3TurretRight|TurretMicro_XRotator|Dupli|2
+    400056: M3TurretRight|TurretMicro_YRotator|Dupli|1
+    400058: M3TurretTop|TurretMedium_Base|Dupli|0
+    400060: M3TurretTop|TurretMedium_XRotator|Dupli|2
+    400062: M3TurretTop|TurretMedium_YRotator|Dupli|1
+    400064: LargeTurret_M3TurretTop
+    400066: SmallTurret_M3TurretLeft
+    400068: SmallTurret_M3TurretRight
+    2300000: Cube.018
+    2300002: Cube.019
+    2300004: M3
+    2300006: M3TurretLeft|Cube.039|Dupli|5
+    2300008: M3TurretLeft|Cube.114|Dupli|2
+    2300010: M3TurretLeft|Cube.154|Dupli|1
+    2300012: M3TurretLeft|Plane.008|Dupli|4
+    2300014: M3TurretLeft|Plane.009|Dupli|3
+    2300016: M3TurretLeft|Plane.042|Dupli|0
+    2300018: M3TurretRight|Cube.039|Dupli|5
+    2300020: M3TurretRight|Cube.114|Dupli|2
+    2300022: M3TurretRight|Cube.154|Dupli|1
+    2300024: M3TurretRight|Plane.008|Dupli|4
+    2300026: M3TurretRight|Plane.009|Dupli|3
+    2300028: M3TurretRight|Plane.042|Dupli|0
+    2300030: M3TurretTop|Cube.035|Dupli|3
+    2300032: M3TurretTop|Cube.036|Dupli|1
+    2300034: M3TurretTop|Cube.037|Dupli|0
+    2300036: M3TurretTop|Plane.001|Dupli|2
+    2300038: M3TurretLeft|TurretMicro_Base|Dupli|0
+    2300040: M3TurretLeft|TurretMicro_XRotator|Dupli|2
+    2300042: M3TurretLeft|TurretMicro_YRotator|Dupli|1
+    2300044: M3TurretRight|TurretMicro_Base|Dupli|0
+    2300046: M3TurretRight|TurretMicro_XRotator|Dupli|2
+    2300048: M3TurretRight|TurretMicro_YRotator|Dupli|1
+    2300050: M3TurretTop|TurretMedium_Base|Dupli|0
+    2300052: M3TurretTop|TurretMedium_XRotator|Dupli|2
+    2300054: M3TurretTop|TurretMedium_YRotator|Dupli|1
+    3300000: Cube.018
+    3300002: Cube.019
+    3300004: M3
+    3300006: M3TurretLeft|Cube.039|Dupli|5
+    3300008: M3TurretLeft|Cube.114|Dupli|2
+    3300010: M3TurretLeft|Cube.154|Dupli|1
+    3300012: M3TurretLeft|Plane.008|Dupli|4
+    3300014: M3TurretLeft|Plane.009|Dupli|3
+    3300016: M3TurretLeft|Plane.042|Dupli|0
+    3300018: M3TurretRight|Cube.039|Dupli|5
+    3300020: M3TurretRight|Cube.114|Dupli|2
+    3300022: M3TurretRight|Cube.154|Dupli|1
+    3300024: M3TurretRight|Plane.008|Dupli|4
+    3300026: M3TurretRight|Plane.009|Dupli|3
+    3300028: M3TurretRight|Plane.042|Dupli|0
+    3300030: M3TurretTop|Cube.035|Dupli|3
+    3300032: M3TurretTop|Cube.036|Dupli|1
+    3300034: M3TurretTop|Cube.037|Dupli|0
+    3300036: M3TurretTop|Plane.001|Dupli|2
+    3300038: M3TurretLeft|TurretMicro_Base|Dupli|0
+    3300040: M3TurretLeft|TurretMicro_XRotator|Dupli|2
+    3300042: M3TurretLeft|TurretMicro_YRotator|Dupli|1
+    3300044: M3TurretRight|TurretMicro_Base|Dupli|0
+    3300046: M3TurretRight|TurretMicro_XRotator|Dupli|2
+    3300048: M3TurretRight|TurretMicro_YRotator|Dupli|1
+    3300050: M3TurretTop|TurretMedium_Base|Dupli|0
+    3300052: M3TurretTop|TurretMedium_XRotator|Dupli|2
+    3300054: M3TurretTop|TurretMedium_YRotator|Dupli|1
+    4300000: M3TurretLeft|Plane.042|Dupli|0
+    4300002: M3TurretLeft|Cube.154|Dupli|1
+    4300004: M3TurretLeft|Plane.009|Dupli|3
+    4300006: M3TurretLeft|Plane.008|Dupli|4
+    4300008: M3TurretLeft|Cube.039|Dupli|5
+    4300010: M3TurretTop|Plane.001|Dupli|2
+    4300012: M3TurretTop|Cube.035|Dupli|3
+    4300014: Cube.019
+    4300016: M3
+    4300018: Cube.018
+    4300020: M3TurretLeft|TurretMicro_Base|Dupli|0
+    4300022: M3TurretLeft|TurretMicro_YRotator|Dupli|1
+    4300024: M3TurretLeft|TurretMicro_XRotator|Dupli|2
+    4300026: M3TurretTop|TurretMedium_Base|Dupli|0
+    4300028: M3TurretTop|TurretMedium_YRotator|Dupli|1
+    4300030: M3TurretTop|TurretMedium_XRotator|Dupli|2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

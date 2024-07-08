@@ -1,0 +1,130 @@
+fileFormatVersion: 2
+guid: 4ff3434326e4d5345b24a4dd11d91595
+timeCreated: 1474579823
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: F2
+    100002: //RootNode
+    100004: F2WeaponLeft1
+    100006: F2WeaponLeft1|Cube.045|Dupli|0
+    100008: F2WeaponLeft2
+    100010: F2WeaponLeft2|Cube.040|Dupli|2
+    100012: F2WeaponLeft2|Cube.155|Dupli|1
+    100014: F2WeaponLeft2|Cube.156|Dupli|0
+    100016: F2WeaponRight1
+    100018: F2WeaponRight1|Cube.045|Dupli|0
+    100020: F2WeaponRight2
+    100022: F2WeaponRight2|Cube.040|Dupli|2
+    100024: F2WeaponRight2|Cube.155|Dupli|1
+    100026: F2WeaponRight2|Cube.156|Dupli|0
+    100028: MediumWeapon_F2WeaponLeft1
+    100030: MediumWeapon_F2WeaponRight1
+    100032: SmallWeapon_F2WeaponLeft2
+    100034: SmallWeapon_F2WeaponRight2
+    400000: F2
+    400002: //RootNode
+    400004: F2WeaponLeft1
+    400006: F2WeaponLeft1|Cube.045|Dupli|0
+    400008: F2WeaponLeft2
+    400010: F2WeaponLeft2|Cube.040|Dupli|2
+    400012: F2WeaponLeft2|Cube.155|Dupli|1
+    400014: F2WeaponLeft2|Cube.156|Dupli|0
+    400016: F2WeaponRight1
+    400018: F2WeaponRight1|Cube.045|Dupli|0
+    400020: F2WeaponRight2
+    400022: F2WeaponRight2|Cube.040|Dupli|2
+    400024: F2WeaponRight2|Cube.155|Dupli|1
+    400026: F2WeaponRight2|Cube.156|Dupli|0
+    400028: MediumWeapon_F2WeaponLeft1
+    400030: MediumWeapon_F2WeaponRight1
+    400032: SmallWeapon_F2WeaponLeft2
+    400034: SmallWeapon_F2WeaponRight2
+    2300000: F2
+    2300002: F2WeaponLeft1|Cube.045|Dupli|0
+    2300004: F2WeaponLeft2|Cube.040|Dupli|2
+    2300006: F2WeaponLeft2|Cube.155|Dupli|1
+    2300008: F2WeaponLeft2|Cube.156|Dupli|0
+    2300010: F2WeaponRight1|Cube.045|Dupli|0
+    2300012: F2WeaponRight2|Cube.040|Dupli|2
+    2300014: F2WeaponRight2|Cube.155|Dupli|1
+    2300016: F2WeaponRight2|Cube.156|Dupli|0
+    3300000: F2
+    3300002: F2WeaponLeft1|Cube.045|Dupli|0
+    3300004: F2WeaponLeft2|Cube.040|Dupli|2
+    3300006: F2WeaponLeft2|Cube.155|Dupli|1
+    3300008: F2WeaponLeft2|Cube.156|Dupli|0
+    3300010: F2WeaponRight1|Cube.045|Dupli|0
+    3300012: F2WeaponRight2|Cube.040|Dupli|2
+    3300014: F2WeaponRight2|Cube.155|Dupli|1
+    3300016: F2WeaponRight2|Cube.156|Dupli|0
+    4300000: F2WeaponLeft2|Cube.156|Dupli|0
+    4300002: F2WeaponLeft2|Cube.040|Dupli|2
+    4300004: F2WeaponLeft1|Cube.045|Dupli|0
+    4300006: F2
+    4300008: F2WeaponLeft2|Cube.155|Dupli|1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

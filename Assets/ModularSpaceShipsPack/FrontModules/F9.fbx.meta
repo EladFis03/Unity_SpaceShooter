@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: 1f42a76d28aa64e4fb801e3cd57f96ea
+timeCreated: 1474586365
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: F9
+    100004: F9TurretTop
+    100006: F9TurretTop|Cube.039|Dupli|5
+    100008: F9TurretTop|Cube.114|Dupli|2
+    100010: F9TurretTop|Cube.154|Dupli|1
+    100012: F9TurretTop|Plane.008|Dupli|4
+    100014: F9TurretTop|Plane.009|Dupli|3
+    100016: F9TurretTop|Plane.042|Dupli|0
+    100018: F9WeaponLeft1
+    100020: F9WeaponLeft1|Cube.045|Dupli|0
+    100022: F9WeaponLeft2
+    100024: F9WeaponLeft2|Cube.040|Dupli|2
+    100026: F9WeaponLeft2|Cube.155|Dupli|1
+    100028: F9WeaponLeft2|Cube.156|Dupli|0
+    100030: F9WeaponRight1
+    100032: F9WeaponRight1|Cube.045|Dupli|0
+    100034: F9WeaponRight2
+    100036: F9WeaponRight2|Cube.040|Dupli|2
+    100038: F9WeaponRight2|Cube.155|Dupli|1
+    100040: F9WeaponRight2|Cube.156|Dupli|0
+    100042: F9TurretTop|TurretMicro_Base|Dupli|0
+    100044: F9TurretTop|TurretMicro_XRotator|Dupli|2
+    100046: F9TurretTop|TurretMicro_YRotator|Dupli|1
+    100048: MediumWeapon_F9WeaponLeft1
+    100050: MediumWeapon_F9WeaponRight1
+    100052: SmallTurret_F9TurretTop
+    100054: SmallWeapon_F9WeaponLeft2
+    100056: SmallWeapon_F9WeaponRight2
+    400000: F9
+    400002: //RootNode
+    400004: F9TurretTop
+    400006: F9TurretTop|Cube.039|Dupli|5
+    400008: F9TurretTop|Cube.114|Dupli|2
+    400010: F9TurretTop|Cube.154|Dupli|1
+    400012: F9TurretTop|Plane.008|Dupli|4
+    400014: F9TurretTop|Plane.009|Dupli|3
+    400016: F9TurretTop|Plane.042|Dupli|0
+    400018: F9WeaponLeft1
+    400020: F9WeaponLeft1|Cube.045|Dupli|0
+    400022: F9WeaponLeft2
+    400024: F9WeaponLeft2|Cube.040|Dupli|2
+    400026: F9WeaponLeft2|Cube.155|Dupli|1
+    400028: F9WeaponLeft2|Cube.156|Dupli|0
+    400030: F9WeaponRight1
+    400032: F9WeaponRight1|Cube.045|Dupli|0
+    400034: F9WeaponRight2
+    400036: F9WeaponRight2|Cube.040|Dupli|2
+    400038: F9WeaponRight2|Cube.155|Dupli|1
+    400040: F9WeaponRight2|Cube.156|Dupli|0
+    400042: F9TurretTop|TurretMicro_Base|Dupli|0
+    400044: F9TurretTop|TurretMicro_XRotator|Dupli|2
+    400046: F9TurretTop|TurretMicro_YRotator|Dupli|1
+    400048: MediumWeapon_F9WeaponLeft1
+    400050: MediumWeapon_F9WeaponRight1
+    400052: SmallTurret_F9TurretTop
+    400054: SmallWeapon_F9WeaponLeft2
+    400056: SmallWeapon_F9WeaponRight2
+    2300000: F9
+    2300002: F9TurretTop|Cube.039|Dupli|5
+    2300004: F9TurretTop|Cube.114|Dupli|2
+    2300006: F9TurretTop|Cube.154|Dupli|1
+    2300008: F9TurretTop|Plane.008|Dupli|4
+    2300010: F9TurretTop|Plane.009|Dupli|3
+    2300012: F9TurretTop|Plane.042|Dupli|0
+    2300014: F9WeaponLeft1|Cube.045|Dupli|0
+    2300016: F9WeaponLeft2|Cube.040|Dupli|2
+    2300018: F9WeaponLeft2|Cube.155|Dupli|1
+    2300020: F9WeaponLeft2|Cube.156|Dupli|0
+    2300022: F9WeaponRight1|Cube.045|Dupli|0
+    2300024: F9WeaponRight2|Cube.040|Dupli|2
+    2300026: F9WeaponRight2|Cube.155|Dupli|1
+    2300028: F9WeaponRight2|Cube.156|Dupli|0
+    2300030: F9TurretTop|TurretMicro_Base|Dupli|0
+    2300032: F9TurretTop|TurretMicro_XRotator|Dupli|2
+    2300034: F9TurretTop|TurretMicro_YRotator|Dupli|1
+    3300000: F9
+    3300002: F9TurretTop|Cube.039|Dupli|5
+    3300004: F9TurretTop|Cube.114|Dupli|2
+    3300006: F9TurretTop|Cube.154|Dupli|1
+    3300008: F9TurretTop|Plane.008|Dupli|4
+    3300010: F9TurretTop|Plane.009|Dupli|3
+    3300012: F9TurretTop|Plane.042|Dupli|0
+    3300014: F9WeaponLeft1|Cube.045|Dupli|0
+    3300016: F9WeaponLeft2|Cube.040|Dupli|2
+    3300018: F9WeaponLeft2|Cube.155|Dupli|1
+    3300020: F9WeaponLeft2|Cube.156|Dupli|0
+    3300022: F9WeaponRight1|Cube.045|Dupli|0
+    3300024: F9WeaponRight2|Cube.040|Dupli|2
+    3300026: F9WeaponRight2|Cube.155|Dupli|1
+    3300028: F9WeaponRight2|Cube.156|Dupli|0
+    3300030: F9TurretTop|TurretMicro_Base|Dupli|0
+    3300032: F9TurretTop|TurretMicro_XRotator|Dupli|2
+    3300034: F9TurretTop|TurretMicro_YRotator|Dupli|1
+    4300000: F9TurretTop|Plane.042|Dupli|0
+    4300002: F9TurretTop|Cube.154|Dupli|1
+    4300004: F9TurretTop|Plane.009|Dupli|3
+    4300006: F9TurretTop|Plane.008|Dupli|4
+    4300008: F9TurretTop|Cube.039|Dupli|5
+    4300010: F9WeaponLeft1|Cube.045|Dupli|0
+    4300012: F9WeaponLeft2|Cube.040|Dupli|2
+    4300014: F9
+    4300016: F9TurretTop|TurretMicro_Base|Dupli|0
+    4300018: F9TurretTop|TurretMicro_YRotator|Dupli|1
+    4300020: F9TurretTop|TurretMicro_XRotator|Dupli|2
+    4300022: F9WeaponLeft2|Cube.156|Dupli|0
+    4300024: F9WeaponLeft2|Cube.155|Dupli|1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
