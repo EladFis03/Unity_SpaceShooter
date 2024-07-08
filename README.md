@@ -14,4 +14,5 @@ To fire, use the Spacebar/Left mouse key - you will earn points for every hit, a
 
 Good luck pilot.
 
+### Disclaimer
 This game was made back in 2021, as a project in a Udemy online class - Complete C# Unity Game Developer 3D, by GameDev.tv Team.
