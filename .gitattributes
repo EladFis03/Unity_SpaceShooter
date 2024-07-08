@@ -1,0 +1,2 @@
+*.assets.resS filter=lfs diff=lfs merge=lfs -text
+Library/Artifacts/* filter=lfs diff=lfs merge=lfs -text
